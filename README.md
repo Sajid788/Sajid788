@@ -1,3 +1,5 @@
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 - 👋 Hi, I’m Md Sajid Anasri
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Development
