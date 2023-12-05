@@ -8,6 +8,7 @@
   <hr>
    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
    ## 👨‍💻ABOUT ME:
+   <hr>
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```<br>
 - 🛠  I’m currently learning about **Deep Learning!😅**<br>
