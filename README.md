@@ -6,8 +6,8 @@
    be better.</strong></samp></h4> 
   <h3><i>Happy Coding!</i> 😊</h3>
   <hr>
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<h3>👨‍💻ABOUT ME:</h3>
-- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; <h3>👨‍💻ABOUT ME:</h3>
+- 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊<br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```<br>
 - 🛠  I’m currently learning about **Deep Learning!😅**<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**<br>
