@@ -22,14 +22,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<a href="#"><img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="loading..."></a>
-<h1 align="left" >Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Md Sajid Ansari </h1>
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="300" />
 
+<h1 align="left">Hey there <img src="https://media2.giphy.com/media/2UA9gXDkCbKIKlLKxd/200.webp?cid=ecf05e47x7mu9bvq76v5ufyn96y6lqwl4ec4n4gmnnwztxcm&rid=200.webp&ct=g" width ="40"/>, I'm Md Sajid Ansari </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
-
-<h4><samp><strong> You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
+<h4><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h4> 
 <h3><i>Happy Coding!</i> 😊</h3>
 <hr>
 
@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 <hr>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
- 👨‍💻MY WORKING TOOLS:
+ 👨‍💻TECH STACK:
 <p>
 <div align="center" style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -75,6 +75,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
