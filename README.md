@@ -7,10 +7,10 @@
   <h3><i>Happy Coding!</i> 😊</h3>
   <hr>
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,``` .css```, ```.html```
-- 🛠  I’m currently learning about **Deep Learning!😅**
-- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- ⚡ I’m looking for help with anything **I am currently learning! 😅**.
+- 🤔 I use daily ```.js```,``` .css```, ```.html```<br>
+- 🛠  I’m currently learning about **Deep Learning!😅**<br>
+- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**<br>
+- ⚡ I’m looking for help with anything **I am currently learning! 😅**.<br>
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
