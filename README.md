@@ -15,7 +15,7 @@
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎
 <br>
- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> 
  <hr>
 <p align="center" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Sajid788&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
