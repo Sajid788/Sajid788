@@ -49,19 +49,9 @@ You can click the Preview link to take a look at your changes.
 
  <hr>
 
- <h3> What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h3>
-
-<h4>✔️I aspire to work as a programmer.</h4>
-
-<h4>✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
-
-<h4>✔️ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
-
-<hr>
-
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Saurav9284}/count.svg" alt="Saurav9284" :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Sajid788}/count.svg" alt="Sajid788" :: Visitor's Count" /></p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
@@ -69,10 +59,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left">
-  <a href="https://github.com/Saurav9284">
+  <a href="https://github.com/Sajid788">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
-<a href="https://www.linkedin.com/in/saurav-chavan/" target="https://www.linkedin.com/in/saurav-chavan/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
+<a href="https://www.linkedin.com/in/sajid-ansari0/" target="https://www.linkedin.com/in/sajid-ansari0/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
 </p>
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 <hr>
