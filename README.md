@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 <hr>
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
- 👨‍💻TECH STACK:
+ 👨‍💻TECH STACK & WORKING TOOLS:
 <p>
 <div align="center" style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -82,14 +82,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <div/>
-</p>
-<hr>
-     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
- 👨‍💻MY WORKING TOOLS:
-<p>
-<div align="center" style="display: flex; flex-wrap: wrap;">
-  <!--   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> -->
+   <!--   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> -->
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
   <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
@@ -105,6 +98,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <!--   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" /> -->
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
+  <div/>
 </p>
   <hr>
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
