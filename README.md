@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left">
-  <a href="https://github.com/Sajid788">
+  <a href="https://sajid788.github.io">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
 <a href="https://www.linkedin.com/in/sajid-ansari0/" target="https://www.linkedin.com/in/sajid-ansari0/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
