@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 
  ## 👨‍💻ABOUT ME:
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+- 👨‍💻 My Portfolio - **[Md Sajid](https://sajid788.github.io/)** <br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```
 - 🛠  I’m currently learning about **Deep Learning!😅**
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
