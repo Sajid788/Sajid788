@@ -5,7 +5,7 @@
 - 🧠 Callme: ***He/His*** or ***TeamWorker***😊<br>
 - 👨‍💻 My Portfolio - **[Md Sajid](https://sajid788.github.io/)**<br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```<br>
-- 🛠  I’m currently learning about **Deep Learning!😅** <br>
+- 🛠  I’m currently learning about **Deep Learning!😅**<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**<br>
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.<br>
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
