@@ -3,7 +3,7 @@
   <hr>-->
 <!-- <h3>👨‍💻ABOUT ME:</h3>
 - 🧠 Callme: ***He/His*** or ***TeamWorker***😊<br>
-- 👨‍💻 My Portfolio - **[Md Sajid](https://sajid788.github.io/)** <br>
+- 👨‍💻 My Portfolio - **[Md Sajid](https://sajid788.github.io/)**<br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```<br>
 - 🛠  I’m currently learning about **Deep Learning!😅** <br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**<br>
