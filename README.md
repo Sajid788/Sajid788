@@ -2,7 +2,7 @@
   <h3><i>Happy Coding!</i> 😊</h3>
   <hr>-->
 <!-- <h3>👨‍💻ABOUT ME:</h3>
-- 🧠 Callme: ***He/His*** or ***TeamWorker***😊<br>
+- 🧠 Callme: ***He/His***or ***TeamWorker***😊<br>
 - 👨‍💻 My Portfolio - **[Md Sajid](https://sajid788.github.io/)**<br>
 - 🤔 I use daily ```.js```,``` .css```, ```.html```<br>
 - 🛠  I’m currently learning about **Deep Learning!😅**<br>
